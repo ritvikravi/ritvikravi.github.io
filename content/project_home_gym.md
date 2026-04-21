@@ -1,9 +1,9 @@
 ---
-title: At-home gym device
-date: 2025-01-23
+title: Experimental electromagnetic variable-resistance at-Home gym system
+date: 2026-07-23
 type: project
-tag: Mechanisms
-summary: An economical at-home gym device that aims to allow the user to do most exercises in a minimal, confined space.
+tag: Mechatronics | Product Design
+summary: Designing an affordable motor-driven resistance system that fits a full-scale gym into the footprint of a small Indian apartment
 ---
 
 Article in progress. Please visit back soon!
