@@ -36,17 +36,17 @@ Getting there had taken years of my dad throwing things at a wall to see what st
 
 Basketball. Tennis. Swimming. Soccer. Karate. Cricket. He enrolled me in all of them, with the cheerful optimism of a man who was absolutely certain his son was going to be exceptional at *something*, we just hadn't found it yet.
 
-The soccer years are perhaps the most humbling chapter of my athletic biography. Five years of practice. I've score just one goal ever. One, scored in a county-level U-11 game, and my parents, who attended every single match and every single practice, managed to miss it. Every other kid on the field scored that day. The universe, it turned out, has a sense of irony.
+The soccer years are perhaps the most humbling chapter of my athletic biography. Five years of practice. I've scored just one goal ever. One, scored in a county-level U-11 game, and my parents, who attended every single match and every single practice, managed to miss it. Every other kid on the field scored that day. The universe, it turned out, has a sense of irony.
 
 ![swimming](/images/soccer.JPG)
 
-*Exhibit A of the kid with the participation trophy*
+*Peak career highlight (parents missed the actual one). But hey, I got a participation trophy*
 
 Basketball had the same energy. I was reasonably tall in 6th grade, which felt promising until it became clear that "reasonably tall for 6th grade" doesn't translate into any meaningful advantage when the kids you're playing against are already the height of grown men and significantly more athletic. You learn a lot about yourself going up against someone who's physically superior in every measurable way. Most of what you learn is humbling.
 
 ![0.7](/images/swimming.JPG)
 
-*Taken after winning a swimming medal*
+*Taken after winning a swimming medal— something to compensate for my basketball and soccer, I suppose*
 
 What eventually stuck, what I turned out to have something of a hand at, was baseball, and then cricket. The latter arrived properly at the end of 7th grade. I was fast. Won the 100m and 200m in 8th and 9th grade, back when my body still cooperated with my ambitions. I bowled with pace. My batting, though, was a different story. Technically present, practically unremarkable. Something was missing. Some belief, maybe. Some willingness to trust the innings would turn if I just stayed at the crease long enough.
 
@@ -68,7 +68,7 @@ My batting got better after that. Genuinely better. Not because my technique cha
 
 I think about what sport has actually cost me, beyond the losses and the embarrassments and the Dave & Busters baseball dinner nights.
 
-It cost me certainty. **Sports doesn't let you be certain about anything. You can do everything right: train properly, think clearly, execute well, and still lose. You can be the better team and still go home.** **That's a brutal thing to internalize when you're young and believe, as young people do, that the universe is basically fair. It isn't. Sport tells you that early, and often, and without apology.**
+It cost me certainty. Sports doesn't let you be certain about anything. You can do everything right: train properly, think clearly, execute well, and still lose. You can be the better team and still go home. That's a brutal thing to internalize when you're young and believe, as young people do, that the universe is basically fair. It isn't. Sport tells you that early, and often, and without apology.
 
 What it gave me in exchange was harder to name. Something about functioning inside uncertainty. Something about staying useful when things are falling apart.
 
@@ -76,7 +76,7 @@ Those aren't lessons you learn from wins. The 2013 World Series was a win, and i
 
 ![0.8](/images/range.png)
 
-*Me doing a corny pose with my dad at a shooting range, while holding the SIG MPX all wrong*
+*Not about the sport. It was about who was standing next to me.*
 
 I'll close where I should have started: this is, in the end, a gratitude letter.
 
@@ -88,4 +88,4 @@ The best things usually happen that way.
 
 Love you dad.
 
-_-Ritvik_
+_- Ritvik_
