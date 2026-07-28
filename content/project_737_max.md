@@ -4,6 +4,7 @@ date: 2026-09-20
 type: project
 tag: Aerospace | Failure analysis
 summary: Quantifying the aero-propulsive coupling of the 737 MAX and exploring the mechanical design pivots that could have saved the airframe... and the business
+slug: 737_max
 ---
 
 The Boeing 737 MAX crashes of 2018 and 2019 have been covered extensively. The software failure, the certification shortcuts with the FAA, the corporate decisions. What is missing from the public record, however, is the exact aerodynamic behavior that made MCAS necessary in the first place.

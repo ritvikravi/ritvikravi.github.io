@@ -4,6 +4,7 @@ date: 2026-07-31
 type: project
 tag: Engineering economics
 summary: About the high-stakes hardware making the AI boom possible and why mechanical bottlenecks are real drivers of global profit
+slug: mech_hedge_fund
 ---
 
 When we think of the AI boom, the immediate thought goes to the rise of Gen AI companies like Anthropic and OpenAI, or the meteoric rise of Nvidia. 
