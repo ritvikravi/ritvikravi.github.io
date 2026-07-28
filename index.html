@@ -61,44 +61,42 @@
   </script>
 
   <style>
-    html, body {
-      margin: 0;
-      padding: 0;
-      width: 100%;
-      height: 100%;
-      background-color: #1E1E1E;
-      /* Prevents mobile browser touch delay and scroll lock conflicts */
-      touch-action: manipulation;
-    }
+  html, body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #1E1E1E;
+  }
 
-    #loading-container {
-      position: fixed;
-      top: 0;
-      left: 0;
-      width: 100vw;
-      height: 100vh;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      background-color: #1E1E1E;
-      z-index: 9999;
-      transition: opacity 0.3s ease-out;
-    }
+  #loading-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1E1E1E;
+    z-index: 9999;
+    transition: opacity 0.3s ease-out;
+  }
 
-    .pulsing-dot {
-      width: 48px;
-      height: 48px;
-      background-color: #D9453C;
-      border-radius: 50%;
-      animation: pulse 1.4s infinite ease-in-out;
-    }
+  .pulsing-dot {
+    width: 48px;
+    height: 48px;
+    background-color: #D9453C;
+    border-radius: 50%;
+    animation: pulse 1.4s infinite ease-in-out;
+  }
 
-    @keyframes pulse {
-      0% { transform: scale(0.8); opacity: 0.4; }
-      50% { transform: scale(1.15); opacity: 1; }
-      100% { transform: scale(0.8); opacity: 0.4; }
-    }
-  </style>
+  @keyframes pulse {
+    0% { transform: scale(0.8); opacity: 0.4; }
+    50% { transform: scale(1.15); opacity: 1; }
+    100% { transform: scale(0.8); opacity: 0.4; }
+  }
+</style>
 
   <!-- Script to dismiss loader overlay as soon as Flutter renders the first frame -->
   <script>
